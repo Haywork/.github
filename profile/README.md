@@ -7,7 +7,4 @@
     We understand the stress and pressure our customer faces throughout the project life cycle. We’ve been down this path over and over again in the past two decades. We share the pain and we seek to be a part of your team and a part of your solution, working together to meet the deadline with flying colors.
 
     It’s not easy managing and maintaining a high quality team. With over twenty years running remote teams, we know what it takes to maintain a stable and high functioning team for our customers. We are eager to do just that for you.  
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
